@@ -19,5 +19,5 @@ forvo.com seems to be a good source for these
 
 ### Dependencies
 
-- jiaaro/pydub (with commit 1362a77e55) - This will hopefully be merged soon
+- jiaaro/pydub
 - ffmpeg or libav (as required by pydub)
